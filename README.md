@@ -1,6 +1,4 @@
-
-**ZERTCIHUY**
-#
+## PORTOFOLIO **ZERTCIHUY**
 ```js
 const messages = [
   "Konnichiwa.",
@@ -34,4 +32,3 @@ function typeLine() {
 
 typeLine();
 ```
-#
